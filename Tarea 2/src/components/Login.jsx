@@ -24,5 +24,5 @@ return (
 
     <button>Iniciar Sesion</button>
     </form>
-)
 );
+};
